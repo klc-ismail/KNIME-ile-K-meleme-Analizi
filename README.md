@@ -39,7 +39,7 @@ Yaş, yıllık gelir ve harcama puanlarına K-Means Algoritması uygulanmış ol
 Normalleştirilen veriler analizin kolaylığını sağlamak amacıyla tekrar normal ölçülerine döndürülmüş komşuların dağılımı için dağılım grafiği (scatter plot) çizdirilmiştir.
 
 #### Model Çıktısı
-![alt text](grafikler/grafik3.jpg)
+![alt text](grafikler/grafik4.jpg)
 
 Müşteri segmentasyonu analizi için bir dağılım grafiği (scatter plot) oluşturulmuş olup yaş ve harcama puanları bakımından aralarındaki ilişki üç farklı kümede gösterilmiştir.
 Kırmızı, yeşil ve mavi olarak işaretlenen her renk farklı bir kümeyi göstermektedir.
