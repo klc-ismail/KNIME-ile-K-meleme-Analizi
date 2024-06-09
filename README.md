@@ -6,6 +6,19 @@
 
 --
 
+## Veri Seti Hakkında Bilgi 
+
+Veri seti, bir alışveriş merkezindeki müşteri davranışlarını ve satın alma alışkanlıklarını anlamak için kullanılmaktadır.
+Veri setinin içerdiği değerler:
+CustomerID: Müşteri kimlik numarası.
+Gender: Müşterinin cinsiyeti.
+Age: Müşterinin yaşı.
+Annual Income($): Müşterinin dolar bazında yıllık geliri.
+Spending Score(1-100): Müşterinin 1 – 100 aralığında harcama puanı.
+
+Yapılan analiz sürecinde kümeleme analizine müşterinin yaşı (Age), müşterinin dolar bazında yıllık geliri (Annual Income($)) ve müşterinin harcama puanı (Spending Score (1-100)) sütunları kullanılmıştır.
+
+
 ## K-Means Kümeleme Algoritması ile Müşteri Segmentasyonu 
 
 ### Verilere Ait Değerlerin İncelenmesi
