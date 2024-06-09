@@ -55,6 +55,11 @@ Yapılan kümeleme analizi için genel değerlendirme yapılacak olursa, genç m
 
 Analiz süreci sonrasında müşterilerin ait oldukları ilgili yaş gruplarına göre satış ve pazarlama stratejileri ile müşteri memnuniyetinin ve kazanımının artacağını söyleyebiliriz.
 
+--
+
+## KNIME Akış Diyagramı 
+
+![alt text](grafikler/grafik5.jpg)
 
 --
 
